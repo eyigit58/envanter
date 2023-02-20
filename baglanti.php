@@ -1,9 +1,9 @@
 <?php
 // Veritabanı bağlantısı
-$servername = "localhost";
-$username = "root";
+$servername = "";
+$username = "";
 $password = "";
-$dbname = "envanter";
+$dbname = "";
 
 // Bağlantı kontrolü yapılıyor
 $conn = new mysqli($servername, $username, $password, $dbname);
